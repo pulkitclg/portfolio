@@ -1,6 +1,6 @@
 {
   "homepage": "https://pulkitclg.github.io/portfolio/",  
-  "name": "pulkitclg.github.io",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
