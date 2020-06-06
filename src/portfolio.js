@@ -8,8 +8,8 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Pulkit Goyal",
-  title: "Hi I'm Pulkit Testing the Application",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
+  title: "Hi I'm Pulkit Goyal",
+  subTitle: emoji("A passionate Software Testing Engineer 🚀 having an experience of testing Web and Mobile applications. Provide services like automation testing, performance testing(Load, Volume, Spike), API testing(Rest and Soap), Manual testing."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -18,10 +18,10 @@ const greeting = {
 const socialMediaLinks = {
 
   github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  linkedin: "https://www.linkedin.com/in/pulkitgoyalqaprofile/",
+  gmail: "pulkitclg@gmail.com",
+//  gitlab: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/pulkit.goyal.520/"
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -29,7 +29,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY FULL STACK TESTER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
