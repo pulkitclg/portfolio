@@ -17,11 +17,12 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
+ // github: "https://github.com/saadpasta",
   linkedin: "https://www.linkedin.com/in/pulkitgoyalqaprofile/",
   gmail: "pulkitclg@gmail.com",
 //  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/pulkit.goyal.520/"
+  facebook: "https://www.facebook.com/pulkit.goyal.520/",
+  instagram: "https://www.instagram.com/realpulkit/?hl=en"
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -31,7 +32,7 @@ const skillsSection = {
   title: "What i do",
   subTitle: "CRAZY FULL STACK TESTER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
+    emoji("⚡ Provide 1111111"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
   ],
