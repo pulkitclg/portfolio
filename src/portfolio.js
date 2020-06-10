@@ -10,7 +10,7 @@ const greeting = {
   username: "Pulkit Goyal",
   title: "Hi I'm Pulkit Goyal",
   subTitle: emoji("A passionate Software Testing Engineer 🚀 having an experience of testing Web and Mobile applications. Provide services like automation testing, performance testing(Load, Volume, Spike), API testing(Rest and Soap), Manual testing."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1XgBT5H26K5F62RhQdeJL4VVPIW9F3AZx/view?usp=sharing"  
 };
 
 // Your Social Media Link
@@ -42,8 +42,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Accessbility Testing",
+      fontAwesomeClassname: "f368"
     },
     {
       skillName: "css3",
@@ -102,17 +102,22 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
-      progressPercentage: "90%"  //Insert relative proficiency in percentage
+      Stack: "Automation Testing",  //Insert stack or technology you have experience in
+      progressPercentage: "80%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
-      progressPercentage: "70%"
+      Stack: "Performance Testing",
+      progressPercentage: "90%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "60%"
+      Stack: "API Testing(Soap and Rest)",
+      progressPercentage: "80%"
+    },
+    {
+      Stack: "Manual Testing",
+      progressPercentage: "90%"
     }
+
   ]
 };
 
@@ -123,30 +128,30 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",  
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      role: "Software Developer In Test",  
+      company: "Watermark",
+      companylogo: require("./assets/images/watermarkLogo.png"),
+      date: "August 2019 – Present",
+      desc: "Watermark’s mission is to put better data into the hands of administrators, educators, and learners everywhere in order to empower you to connect information and gain insights into learning that will drive meaningful improvements.",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
-      role: "Front-End Developer",   
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Senior QA Consultant",   
+      company: "360 Logica Software Testing Services",
+      companylogo: require("./assets/images/360LogicaLogo.jpg"),
+      date: "June 2014 – August 2019",
+      desc: "A leader in software testing services and quality assurance, 360logica offers high-end software testing programs and test solutions to independent software vendors (ISVs), software product companies, and SMEs."
     },
-    {
-      role: "Software Engineer Intern",  
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.jpg"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
+    // {
+    //   role: "Software Engineer Intern",  
+    //   company: "Airbnb",
+    //   companylogo: require("./assets/images/airbnbLogo.jpg"),
+    //   date: "Jan 2015 – Sep 2015",
+    //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    // },
   ]
 };
 
